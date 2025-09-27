@@ -149,7 +149,7 @@ Para salir de todos estos líos y entender mejor los conceptos, me apoyé bastan
 
 1.  **Documentación Oficial de Laravel 12:** La verdad es que es el primer sitio al que hay que ir. Casi todo está ahí. [https://laravel.com/docs/12.x](https://laravel.com/docs/12.x)
 2.  **Documentación de Laravel Breeze:** Muy útil para entender el paquete de autenticación que usamos. [https://laravel.com/docs/12.x/starter-kits#laravel-breeze](https://laravel.com/docs/12.x/starter-kits#laravel-breeze)
-3.  **Hilos de Stack Overflow y Artículos Varios:** Para el error de la "llave demasiado larga", la comunidad fue clave. Hay muchísima gente que ya se ha topado con ese problema y explica la solución del `AppServiceProvider`.
+3.  **Laracasts - Laravel From Scratch:** Es el recurso de aprendizaje por video más respetado en la comunidad. Ofrece tutoriales detallados sobre todos los aspectos del framework, desde los conceptos básicos hasta las técnicas más avanzadas. https://laracasts.com/series/laravel-11-from-scratch](https://laracasts.com/series/laravel-11-from-scratch)
 
 ---
 
