@@ -106,7 +106,8 @@ El tema de la base de datos fue central en este laboratorio.
 
 La siguiente captura es la prueba del delito: la tabla `users` con un registro dentro. La confirmación de que la aplicación y la base de datos por fin se estaban comunicando.
 
-**[INSERTAR AQUÍ LA CAPTURA #2: LA BASE DE DATOS CON EL USUARIO]**
+<img width="921" height="270" alt="image" src="https://github.com/user-attachments/assets/bcc518ed-1b00-4959-8a6e-6bd8631fd5b4" />
+
 
 ---
 
@@ -116,7 +117,7 @@ Después de toda la pelea con la configuración, el resultado fue una aplicació
 
 La imagen de abajo muestra el "Dashboard". Es la página a la que llegas después de iniciar sesión, la prueba visual de que todo el sistema de autenticación está operativo.
 
-**[INSERTAR AQUÍ LA CAPTURA #1: EL RESULTADO FINAL FUNCIONANDO]**
+<img width="921" height="230" alt="image" src="https://github.com/user-attachments/assets/1a147787-aeb6-4a1e-a9d5-593f12a5737c" />
 
 ---
 
